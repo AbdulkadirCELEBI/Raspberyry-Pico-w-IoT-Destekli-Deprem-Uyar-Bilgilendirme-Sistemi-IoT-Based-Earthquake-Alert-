@@ -1,7 +1,7 @@
 # Raspberyry-Pico-w-IoT-Destekli-Deprem-Uyar-Bilgilendirme-Sistemi-IoT-Based-Earthquake-Alert-
 Earthquake-Alert
-
-Merhaba,
+Wiki Sayfasında Projenin bütün detyalarına ulaşabilirsiniz. Kodları indirmeden okumanızı tavsiye ediyorum. İyi çalışmalar :)
+Merhaba, 
 
 Bu projede, Marmara Üniversitesi > Fen Bilimleri Enstitüsü > Elektrik-Elektronik Mühendisliği Yüksek Lisans eğitiminde Gömülü Sistemler ile Mobil Uygulamalar dersi için yapmış olduğum Raspberry Pico W ile IoT tabanlı deprem uyarı bilgilendirme sistemi projesini detaylıca anlatacağım. 
 
